@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "..\\Clases"
+		},
+		{
+			"path": "..\\..\\segundo-desafio-proyecto\\Consultorio-VLP-Bossio"
+		},
+		{
+			"path": "..\\..\\Java Script\\JAVASCRIPT CLASE 5"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Manejo de archivos"
+	}
+}

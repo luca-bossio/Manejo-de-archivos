@@ -1,0 +1,21 @@
+
+
+
+[                                                                                                                                                     
+    {                                                                                                                                                    
+      title: 'Pelota de futbol',                                                                                                                                 
+      price: 5000,                                    
+      ithumbnail:1                                                                                                                                             
+    },                                                                                                                                                                                                                                                                                                     
+    {                                                                                                                                                    
+      title: 'Pelota de rugby',                                                                                                                          
+      price: 3500,                                                                                                                                     
+      thumbnail:2                                                                                                                                              
+    } 
+    {                                                                                                                                                    
+      title: 'Pelota de voley',                                                                                                                          
+      price: 3000,                                                                                                                                     
+      thumbnail:3                                                                                                                                     
+    }   
+
+  ]         
