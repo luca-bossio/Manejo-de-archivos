@@ -1,4 +1,4 @@
-const contenedor = require ("./archivos");
+const contenedor = require("./archivos");
 
 const productoService = new contenedor();
 

@@ -8,10 +8,10 @@
     "producto": "Pelota de rugby",
     "precio": 3500,
     "id": 2
-  }, 
-  {                                                                                                                 
-    "producto": "Pelota de voley",                                                                                                                                 
-    "precio": 3000,                                    
-    "id":3 
+  },
+  {
+    "producto": "Pelota de voley",
+    "precio": 3000,
+    "id": 3
   }
 ]
